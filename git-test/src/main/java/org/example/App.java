@@ -13,5 +13,6 @@ public class App {
         System.out.println("Hello World!5 hot-fix ");
         System.out.println("Hello World!5 push test ");
         System.out.println("Hello World!5 pull test ");
+        System.out.println("Hello World! clone test ");
     }
 }
